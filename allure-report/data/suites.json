@@ -1,0 +1,128 @@
+{
+  "uid" : "98d3104e051c652961429bf95fa0b5d6",
+  "name" : "suites",
+  "children" : [ {
+    "name" : "My Login application",
+    "children" : [ {
+      "name" : "launch the application url and verify the tittle and url",
+      "uid" : "f72706ad5d5ac674",
+      "parentUid" : "ff9b43c34a817b44fa9b6edf61b00141",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642069689097,
+        "stop" : 1642069689110,
+        "duration" : 13
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 8,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "header verification",
+      "uid" : "b5a9efa223ce2706",
+      "parentUid" : "ff9b43c34a817b44fa9b6edf61b00141",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642069689112,
+        "stop" : 1642069689125,
+        "duration" : 13
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 8,
+      "retriesStatusChange" : false,
+      "parameters" : [ "chrome-97.0.4692.71" ]
+    }, {
+      "name" : "launch the application url and verify the tittle and url",
+      "uid" : "5723d4c4c79597b2",
+      "parentUid" : "ff9b43c34a817b44fa9b6edf61b00141",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642069691194,
+        "stop" : 1642069691204,
+        "duration" : 10
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 7,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-95.0.2" ]
+    }, {
+      "name" : "header verification",
+      "uid" : "bd70face69434c20",
+      "parentUid" : "ff9b43c34a817b44fa9b6edf61b00141",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642069691206,
+        "stop" : 1642069691216,
+        "duration" : 10
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 7,
+      "retriesStatusChange" : false,
+      "parameters" : [ "firefox-95.0.2" ]
+    }, {
+      "name" : "launch the application url and verify the tittle and url",
+      "uid" : "d02324e35beaf408",
+      "parentUid" : "ff9b43c34a817b44fa9b6edf61b00141",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642258055100,
+        "stop" : 1642258055107,
+        "duration" : 7
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 20,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome-97.0.4692.71" ]
+    }, {
+      "name" : "header verification",
+      "uid" : "efe47e63fe5f426f",
+      "parentUid" : "ff9b43c34a817b44fa9b6edf61b00141",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642258055108,
+        "stop" : 1642258055109,
+        "duration" : 1
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 20,
+      "retriesStatusChange" : true,
+      "parameters" : [ "Chrome-97.0.4692.71" ]
+    }, {
+      "name" : "verify the menu list",
+      "uid" : "d065a49f0c1e7e8d",
+      "parentUid" : "ff9b43c34a817b44fa9b6edf61b00141",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642258055113,
+        "stop" : 1642258055122,
+        "duration" : 9
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "newPassed" : false,
+      "newBroken" : false,
+      "retriesCount" : 7,
+      "retriesStatusChange" : false,
+      "parameters" : [ "Chrome-97.0.4692.71" ]
+    } ],
+    "uid" : "ff9b43c34a817b44fa9b6edf61b00141"
+  } ]
+}

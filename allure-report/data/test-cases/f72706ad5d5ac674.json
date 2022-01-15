@@ -1,0 +1,126 @@
+{
+  "uid" : "f72706ad5d5ac674",
+  "name" : "launch the application url and verify the tittle and url",
+  "fullName" : "My Login application.launch the application url and verify the tittle and url",
+  "historyId" : "4c4789e72889eb3308a6efe19989f18b",
+  "time" : {
+    "start" : 1642069689097,
+    "stop" : 1642069689110,
+    "duration" : 13
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 8,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "My Login application"
+  }, {
+    "name" : "testClass",
+    "value" : "My Login application"
+  }, {
+    "name" : "testMethod",
+    "value" : "launch the application url and verify the tittle and url"
+  }, {
+    "name" : "package",
+    "value" : "My Login application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "chrome-97.0.4692.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "ba29c21326570cb7",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642069307316,
+        "stop" : 1642069307325,
+        "duration" : 9
+      }
+    }, {
+      "uid" : "5163d6dbb9f70604",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642069249967,
+        "stop" : 1642069249978,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "6125cff99b3ff320",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642069074634,
+        "stop" : 1642069074649,
+        "duration" : 15
+      }
+    }, {
+      "uid" : "4f11d266f179f5a3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642068825373,
+        "stop" : 1642068825383,
+        "duration" : 10
+      }
+    }, {
+      "uid" : "fd67c1fcfb8ff0ae",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642067333364,
+        "stop" : 1642067333374,
+        "duration" : 10
+      }
+    }, {
+      "uid" : "d24d640334d6907d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642067328808,
+        "stop" : 1642067328817,
+        "duration" : 9
+      }
+    }, {
+      "uid" : "cfdf3f8a77b5c0bd",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642066598934,
+        "stop" : 1642066598945,
+        "duration" : 11
+      }
+    }, {
+      "uid" : "fe39bc48fac1ae23",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642066574026,
+        "stop" : 1642066574037,
+        "duration" : 11
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "f72706ad5d5ac674.json",
+  "parameterValues" : [ "chrome-97.0.4692.71" ]
+}

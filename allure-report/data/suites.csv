@@ -1,0 +1,8 @@
+"Status","Start Time","Stop Time","Duration in ms","Parent Suite","Suite","Sub Suite","Test Class","Test Method","Name","Description"
+"passed","Sat Jan 15 20:17:35 IST 2022","Sat Jan 15 20:17:35 IST 2022","9","","My Login application","","My Login application","verify the menu list","verify the menu list",""
+"passed","Sat Jan 15 20:17:35 IST 2022","Sat Jan 15 20:17:35 IST 2022","7","","My Login application","","My Login application","launch the application url and verify the tittle and url","launch the application url and verify the tittle and url",""
+"passed","Sat Jan 15 20:17:35 IST 2022","Sat Jan 15 20:17:35 IST 2022","1","","My Login application","","My Login application","header verification","header verification",""
+"passed","Thu Jan 13 15:58:09 IST 2022","Thu Jan 13 15:58:09 IST 2022","13","","My Login application","","My Login application","launch the application url and verify the tittle and url","launch the application url and verify the tittle and url",""
+"passed","Thu Jan 13 15:58:09 IST 2022","Thu Jan 13 15:58:09 IST 2022","13","","My Login application","","My Login application","header verification","header verification",""
+"passed","Thu Jan 13 15:58:11 IST 2022","Thu Jan 13 15:58:11 IST 2022","10","","My Login application","","My Login application","header verification","header verification",""
+"passed","Thu Jan 13 15:58:11 IST 2022","Thu Jan 13 15:58:11 IST 2022","10","","My Login application","","My Login application","launch the application url and verify the tittle and url","launch the application url and verify the tittle and url",""
