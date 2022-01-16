@@ -1,0 +1,118 @@
+{
+  "uid" : "8f9d13706f61b665",
+  "name" : "verify the menu list",
+  "fullName" : "My Login application.verify the menu list",
+  "historyId" : "b0555631c7ce33cdf2e89f1c107d81a8",
+  "time" : {
+    "start" : 1642258055113,
+    "stop" : 1642258055122,
+    "duration" : 9
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 7,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "My Login application"
+  }, {
+    "name" : "testClass",
+    "value" : "My Login application"
+  }, {
+    "name" : "testMethod",
+    "value" : "verify the menu list"
+  }, {
+    "name" : "package",
+    "value" : "My Login application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-97.0.4692.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "f33da3a3bbd2c3b3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642257821264,
+        "stop" : 1642257821271,
+        "duration" : 7
+      }
+    }, {
+      "uid" : "d31c7b09d7438e2d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642257745397,
+        "stop" : 1642257745399,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "252211925b9384ff",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642257695628,
+        "stop" : 1642257695631,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "45079c00752346bc",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642257641510,
+        "stop" : 1642257641516,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "ede3bd62bb405524",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642257546038,
+        "stop" : 1642257546042,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "113f8bd10e6da3e3",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642085593395,
+        "stop" : 1642085593398,
+        "duration" : 3
+      }
+    }, {
+      "uid" : "8206ff4e6c8eb0b6",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642085456853,
+        "stop" : 1642085456857,
+        "duration" : 4
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8f9d13706f61b665.json",
+  "parameterValues" : [ "Chrome-97.0.4692.71" ]
+}

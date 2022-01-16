@@ -1,0 +1,60 @@
+{
+  "uid" : "388d7ba6a3d1e21f",
+  "name" : "Verify the XC90 recharge in th menu",
+  "fullName" : "Verify the volvo homepgae.Verify the XC90 recharge in th menu",
+  "historyId" : "7c9926e4fef7529e92ac9b40206b6e4a",
+  "time" : {
+    "start" : 1642350673444,
+    "stop" : 1642350673444,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify the volvo homepgae"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify the volvo homepgae"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the XC90 recharge in th menu"
+  }, {
+    "name" : "package",
+    "value" : "Verify the volvo homepgae"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-97.0.4692.71"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "388d7ba6a3d1e21f.json",
+  "parameterValues" : [ "Chrome-97.0.4692.71" ]
+}

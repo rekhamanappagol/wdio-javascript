@@ -31,5 +31,8 @@
     "local-runner": "^0.1.1-alpha",
     "webdriverio": "^7.16.13"
   },
-  "dependencies": {}
+  "dependencies": {
+    "allure-commandline": "^2.17.2",
+    "error-ex": "git+https://github.com/Qix-/node-error-ex.git"
+  }
 }

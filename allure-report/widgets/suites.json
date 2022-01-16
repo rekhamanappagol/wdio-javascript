@@ -1,5 +1,5 @@
 {
-  "total" : 1,
+  "total" : 2,
   "items" : [ {
     "uid" : "ff9b43c34a817b44fa9b6edf61b00141",
     "name" : "My Login application",
@@ -10,6 +10,17 @@
       "passed" : 7,
       "unknown" : 0,
       "total" : 7
+    }
+  }, {
+    "uid" : "6ed73c5effb09e320c199e7f760a7482",
+    "name" : "Verify the volvo homepgae",
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 6,
+      "unknown" : 0,
+      "total" : 6
     }
   } ]
 }

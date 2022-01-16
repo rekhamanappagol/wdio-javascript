@@ -1,0 +1,91 @@
+<?xml version='1.0'?>
+<ns2:test-suite xmlns:ns2='urn:model.allure.qatools.yandex.ru' start='1642350636113' stop='1642350636141'>
+    <name>Verify the volvo homepgae</name>
+    <title>Verify the volvo homepgae</title>
+    <test-cases>
+        <test-case start='1642350636114' status='passed' stop='1642350636119'>
+            <name>launch the application url and verify the tittle and url</name>
+            <title>launch the application url and verify the tittle and url</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='Chrome-97.0.4692.71'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1642350636121' status='passed' stop='1642350636130'>
+            <name>header text verification</name>
+            <title>header text verification</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='Chrome-97.0.4692.71'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1642350636133' status='passed' stop='1642350636134'>
+            <name>click on menu button</name>
+            <title>click on menu button</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='Chrome-97.0.4692.71'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1642350636134' status='passed' stop='1642350636137'>
+            <name>verify the menu list</name>
+            <title>verify the menu list</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='Chrome-97.0.4692.71'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1642350636137' status='passed' stop='1642350636138'>
+            <name>Click on our cars button</name>
+            <title>Click on our cars button</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='Chrome-97.0.4692.71'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+        <test-case start='1642350636138' status='passed' stop='1642350636140'>
+            <name>Verify the XC90 recharge in th menu</name>
+            <title>Verify the XC90 recharge in th menu</title>
+            <labels>
+                <label name='language' value='javascript'/>
+                <label name='framework' value='wdio'/>
+                <label name='thread' value='1-0'/>
+            </labels>
+            <parameters>
+                <parameter kind='argument' name='browser' value='Chrome-97.0.4692.71'/>
+            </parameters>
+            <steps/>
+            <attachments/>
+        </test-case>
+    </test-cases>
+</ns2:test-suite>

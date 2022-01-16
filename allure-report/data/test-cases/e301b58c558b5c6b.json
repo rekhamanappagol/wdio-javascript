@@ -1,0 +1,118 @@
+{
+  "uid" : "e301b58c558b5c6b",
+  "name" : "header verification",
+  "fullName" : "My Login application.header verification",
+  "historyId" : "b3fd4f4b056f8389ee4da1b34937acf3",
+  "time" : {
+    "start" : 1642069691206,
+    "stop" : 1642069691216,
+    "duration" : 10
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 7,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "My Login application"
+  }, {
+    "name" : "testClass",
+    "value" : "My Login application"
+  }, {
+    "name" : "testMethod",
+    "value" : "header verification"
+  }, {
+    "name" : "package",
+    "value" : "My Login application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "firefox-95.0.2"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "35094a760b4f9c78",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642069309962,
+        "stop" : 1642069309972,
+        "duration" : 10
+      }
+    }, {
+      "uid" : "e4619be53e55d358",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642069077753,
+        "stop" : 1642069077773,
+        "duration" : 20
+      }
+    }, {
+      "uid" : "7d1345c26322b19e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642068827982,
+        "stop" : 1642068827991,
+        "duration" : 9
+      }
+    }, {
+      "uid" : "ccf7f59e089719ee",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642067339967,
+        "stop" : 1642067339979,
+        "duration" : 12
+      }
+    }, {
+      "uid" : "b75a94662e5ff639",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642067331469,
+        "stop" : 1642067331479,
+        "duration" : 10
+      }
+    }, {
+      "uid" : "933116f9efdaca7a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642066605692,
+        "stop" : 1642066605705,
+        "duration" : 13
+      }
+    }, {
+      "uid" : "4d6d88dd3cdf134e",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642066576693,
+        "stop" : 1642066576703,
+        "duration" : 10
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "e301b58c558b5c6b.json",
+  "parameterValues" : [ "firefox-95.0.2" ]
+}

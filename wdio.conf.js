@@ -15,21 +15,16 @@ exports.config = {
         // 'path/to/excluded/files'
     ],
     capabilities: [
-    //     {
-    //     maxInstances: 2,
-    //     browserName : 'firefox',
-    //     acceptInsecureCerts: true
-    //    },
+        {
+        maxInstances: 2,
+        browserName : 'firefox',
+        acceptInsecureCerts: true
+       },
        {
         maxInstances: 2,
         browserName: 'chrome',
         acceptInsecureCerts: true
-       },
-    //   {
-    //     maxInstances: 2,
-    //     browserName: 'Microsoft Edge',
-    //     acceptInsecureCerts: true
-    //   }
+       }
 ],
     //
     // ===================
@@ -50,8 +45,8 @@ exports.config = {
     // Services take over a specific job you don't want to take care of. They enhance
     // your test setup with almost no effort. Unlike plugins, they don't add new
     // commands. Instead, they hook themselves up into the test process.
-    services: ['chromedriver'],
-    //services: ['selenium-standalone'],
+    //services: ['chromedriver'],
+    services: ['selenium-standalone'],
     
     // Framework you want to run your specs with.
     // The following are supported: Mocha, Jasmine, and Cucumber

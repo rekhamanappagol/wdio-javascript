@@ -1,0 +1,142 @@
+{
+  "uid" : "8901fc3104b1b3fb",
+  "name" : "Verify the XC90 recharge in th menu",
+  "fullName" : "Verify the volvo homepgae.Verify the XC90 recharge in th menu",
+  "historyId" : "7c9926e4fef7529e92ac9b40206b6e4a",
+  "time" : {
+    "start" : 1642350935021,
+    "stop" : 1642350935021,
+    "duration" : 0
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 10,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "1-0"
+  }, {
+    "name" : "suite",
+    "value" : "Verify the volvo homepgae"
+  }, {
+    "name" : "testClass",
+    "value" : "Verify the volvo homepgae"
+  }, {
+    "name" : "testMethod",
+    "value" : "Verify the XC90 recharge in th menu"
+  }, {
+    "name" : "package",
+    "value" : "Verify the volvo homepgae"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-97.0.4692.71"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ {
+      "uid" : "9729bbce91edb987",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642350881433,
+        "stop" : 1642350881434,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "2899261fdc3f7642",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642350852189,
+        "stop" : 1642350852190,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "9f75c27bda2c3587",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642350820125,
+        "stop" : 1642350820126,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "388d7ba6a3d1e21f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642350673444,
+        "stop" : 1642350673444,
+        "duration" : 0
+      }
+    }, {
+      "uid" : "bbde1d0c5071c63f",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642350636138,
+        "stop" : 1642350636140,
+        "duration" : 2
+      }
+    }, {
+      "uid" : "3f617694020d9f55",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642266455795,
+        "stop" : 1642266455796,
+        "duration" : 1
+      }
+    }, {
+      "uid" : "9348073d3dc21c24",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642266237477,
+        "stop" : 1642266237483,
+        "duration" : 6
+      }
+    }, {
+      "uid" : "2a112b6caee0619",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642265460915,
+        "stop" : 1642265460924,
+        "duration" : 9
+      }
+    }, {
+      "uid" : "738c6cdc41b84f9a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642265422769,
+        "stop" : 1642265422773,
+        "duration" : 4
+      }
+    }, {
+      "uid" : "dfb7f31b9baa197a",
+      "status" : "passed",
+      "time" : {
+        "start" : 1642265354519,
+        "stop" : 1642265354523,
+        "duration" : 4
+      }
+    } ],
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "8901fc3104b1b3fb.json",
+  "parameterValues" : [ "Chrome-97.0.4692.71" ]
+}

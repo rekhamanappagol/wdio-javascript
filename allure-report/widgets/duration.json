@@ -1,35 +1,5 @@
 [ {
-  "uid" : "d065a49f0c1e7e8d",
-  "name" : "verify the menu list",
-  "time" : {
-    "start" : 1642258055113,
-    "stop" : 1642258055122,
-    "duration" : 9
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "d02324e35beaf408",
-  "name" : "launch the application url and verify the tittle and url",
-  "time" : {
-    "start" : 1642258055100,
-    "stop" : 1642258055107,
-    "duration" : 7
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "efe47e63fe5f426f",
-  "name" : "header verification",
-  "time" : {
-    "start" : 1642258055108,
-    "stop" : 1642258055109,
-    "duration" : 1
-  },
-  "status" : "passed",
-  "severity" : "normal"
-}, {
-  "uid" : "f72706ad5d5ac674",
+  "uid" : "a800681c97332c8f",
   "name" : "launch the application url and verify the tittle and url",
   "time" : {
     "start" : 1642069689097,
@@ -39,17 +9,57 @@
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "b5a9efa223ce2706",
-  "name" : "header verification",
+  "uid" : "87dc22e3beff0163",
+  "name" : "Click on our cars button",
   "time" : {
-    "start" : 1642069689112,
-    "stop" : 1642069689125,
+    "start" : 1642350935020,
+    "stop" : 1642350935020,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8901fc3104b1b3fb",
+  "name" : "Verify the XC90 recharge in th menu",
+  "time" : {
+    "start" : 1642350935021,
+    "stop" : 1642350935021,
+    "duration" : 0
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "44b2f9f3b7eb7c5a",
+  "name" : "header text verification",
+  "time" : {
+    "start" : 1642350934997,
+    "stop" : 1642350935010,
     "duration" : 13
   },
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "bd70face69434c20",
+  "uid" : "f71add0c6c6c5248",
+  "name" : "launch the application url and verify the tittle and url",
+  "time" : {
+    "start" : 1642265422659,
+    "stop" : 1642265422666,
+    "duration" : 7
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "abbc79cfeab43e19",
+  "name" : "click on menu button",
+  "time" : {
+    "start" : 1642350935018,
+    "stop" : 1642350935019,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "e301b58c558b5c6b",
   "name" : "header verification",
   "time" : {
     "start" : 1642069691206,
@@ -59,12 +69,62 @@
   "status" : "passed",
   "severity" : "normal"
 }, {
-  "uid" : "5723d4c4c79597b2",
+  "uid" : "9dadda7b49812492",
   "name" : "launch the application url and verify the tittle and url",
   "time" : {
     "start" : 1642069691194,
     "stop" : 1642069691204,
     "duration" : 10
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "bdc818852feb4623",
+  "name" : "verify the menu list",
+  "time" : {
+    "start" : 1642350935019,
+    "stop" : 1642350935020,
+    "duration" : 1
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "8f9d13706f61b665",
+  "name" : "verify the menu list",
+  "time" : {
+    "start" : 1642258055113,
+    "stop" : 1642258055122,
+    "duration" : 9
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "a669ef260c482ca2",
+  "name" : "launch the application url and verify the tittle and url",
+  "time" : {
+    "start" : 1642350934991,
+    "stop" : 1642350934996,
+    "duration" : 5
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "baee9e9542a7f8a7",
+  "name" : "header verification",
+  "time" : {
+    "start" : 1642069689112,
+    "stop" : 1642069689125,
+    "duration" : 13
+  },
+  "status" : "passed",
+  "severity" : "normal"
+}, {
+  "uid" : "dbc9d83c79060881",
+  "name" : "header verification",
+  "time" : {
+    "start" : 1642265422669,
+    "stop" : 1642265422683,
+    "duration" : 14
   },
   "status" : "passed",
   "severity" : "normal"

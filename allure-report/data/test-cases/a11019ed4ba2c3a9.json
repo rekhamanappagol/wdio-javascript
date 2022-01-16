@@ -1,0 +1,60 @@
+{
+  "uid" : "a11019ed4ba2c3a9",
+  "name" : "launch the application url and verify the tittle and url",
+  "fullName" : "My Login application.launch the application url and verify the tittle and url",
+  "historyId" : "62fe8daaaed76d1b30fad9893b5172c0",
+  "time" : {
+    "start" : 1642257545999,
+    "stop" : 1642257546010,
+    "duration" : 11
+  },
+  "description" : "",
+  "descriptionHtml" : "",
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "newBroken" : false,
+  "newPassed" : false,
+  "retriesCount" : 0,
+  "retriesStatusChange" : false,
+  "beforeStages" : [ ],
+  "afterStages" : [ ],
+  "labels" : [ {
+    "name" : "framework",
+    "value" : "wdio"
+  }, {
+    "name" : "language",
+    "value" : "javascript"
+  }, {
+    "name" : "thread",
+    "value" : "0-0"
+  }, {
+    "name" : "suite",
+    "value" : "My Login application"
+  }, {
+    "name" : "testClass",
+    "value" : "My Login application"
+  }, {
+    "name" : "testMethod",
+    "value" : "launch the application url and verify the tittle and url"
+  }, {
+    "name" : "package",
+    "value" : "My Login application"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure1"
+  } ],
+  "parameters" : [ {
+    "name" : "browser",
+    "value" : "Chrome-97.0.4692.71"
+  } ],
+  "links" : [ ],
+  "hidden" : true,
+  "retry" : true,
+  "extra" : {
+    "categories" : [ ],
+    "tags" : [ ]
+  },
+  "source" : "a11019ed4ba2c3a9.json",
+  "parameterValues" : [ "Chrome-97.0.4692.71" ]
+}
